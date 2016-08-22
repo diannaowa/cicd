@@ -2,7 +2,7 @@ env.SCM_URL="https://github.com/diannaowa/cicd.git"
 env.BRANCH_NAME="master"
 //env.REPO_RELEASE="https://registry.hub.docker.com"
 env.REPO_RELEASE="https://192.168.33.31:8000"
-env.BUILD_VERSION="1.2"
+env.BUILD_VERSION="1.3"
 env.REPO_CREDENTIALS="nexus"
 node{
     stage "checkout"
