@@ -1,4 +1,4 @@
 <?php
 	//phpinfo();
-	echo "hello world 1.3";
+	echo "hello world 1.4";
 ?>
